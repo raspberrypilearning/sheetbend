@@ -1,4 +1,4 @@
-## threading the needle
+## Threading the needle
 
 Take the other rope (which we’ll call rope 2) and push it up through the base of the U.
 
