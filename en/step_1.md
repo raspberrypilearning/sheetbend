@@ -1,25 +1,10 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+There are several thousand different knots, each of which serves a particular purpose in a unique way, however, there is only one great generalist knot: the sheet bend. This knot can perform almost any job you need of a knot, and it’s secure and easy to tie. In other words, if you only know one knot, it should be this one.
 
-### What you will make
+The most basic use of the sheet bend is joining two ropes together. Unlike the more famous reef knot (a knot which, while widely taught, doesn’t actually do any jobs well, other than securing the reefing lines on a sailing ship), the sheet bend doesn’t require both ropes to be the same. It can join thinner ropes to thicker ropes, although there is a limit on how different the ropes can be, the only real way of telling is to try to tie the knot and see if it slips or not.
 
-Add something here to showcase here, for example:
+### Author
+Ben has very strong opinions on knots, and people tend to avoid mentioning anything involving rope or string in his presence so they don’t get lectured in the finer points of cord typing.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+This tutorial first appeared in HackSpace magazine issue 5, which you can download for free from [hsmag.cc](https://hsmag.cc){:target="_blank"}. Follow HackSpace magazine to get your fill of making every month.

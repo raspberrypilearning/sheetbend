@@ -1,13 +1,5 @@
-## What you will need
+## Start with a loop
 
-### Hardware
+Start with the stiffer rope (which will usually be the thicker rope) – we’ll call this rope 1 –  and bend it into a U shape, with a little bit of rope left over on one end.
 
-+ List hardware here, or delete section.
-
-### Software
-
-+ List software here, or delete section.
-
-### Additional Resources
-
-+ List additional resources, or delete section.
+![sew the circuit](images/step2.jpg)

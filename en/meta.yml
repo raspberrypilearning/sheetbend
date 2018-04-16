@@ -1,11 +1,12 @@
-title: sheetbend
-hero_image: images/banner.png
-description: sheetbend description
+title: Sheet bend: the most useful knot
+hero_image: images/banner.jpg
+description: One knot that can perform most tasks you ever need
 version: 4
 listed: false
 copyedit: false
 last_tested: "2018-04-16"
+site_areas: HackSpace
 steps:
   - title: Introduction
-  - title: What you will need
-  - title: Step title
+  - title: Start with a loop
+  - title: threading the needle
