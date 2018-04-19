@@ -1,6 +1,6 @@
 ## Finishing the knot
 
-Wrap rope 2 behind both uprights of the U in rope 1, then tuck rope 1 under itself and pull the knot tight.
+Wrap rope 2 behind both uprights of the U in rope 1, then tuck rope 2 under itself and pull the knot tight.
 
 You now have a sheet bend and your ropes should remain firmly fastened.
 
