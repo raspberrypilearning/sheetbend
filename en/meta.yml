@@ -9,8 +9,6 @@ last_tested: '2018-04-16'
 site_areas: HackSpace
 steps:
 - title: Introduction
-  completion: engaged
 - title: Start with a loop
 - title: Threading the needle
-  completion: internal
 - title: Finishing the knot
